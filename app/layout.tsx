@@ -7,7 +7,7 @@ const inter = Inter({
   subsets: ["latin"],
 });
 const ibmPlexSerif = IBM_Plex_Serif({
-  variable: "--font-plex-serif",
+  variable: "--font-ibm-plex-serif",
   subsets: ["latin"],
   weight: ['400','700'],
 });
